@@ -15,7 +15,7 @@
 <li>💁‍♂️ Volunteer MOD at <strong>Dev Community</strong>.</li>
 <li>✍ I write technical blogs, You can visit my blog site at <a href="https://dev.to/dev_Mahmoud">DEV</a>.</li>
 <li>❤ Contributing to Open Source.</li>
-<li>💻 Visit my <a href="[https://Mahmoud1689.github.io](https://github.com/ERR-RES0LVED)">Portfolio</a> for more details about me.</li>
+<li>💻 Visit my <a href="https://github.com/ERR-RES0LVED">Portfolio</a> for more details about me.</li>
 </ul>
 <!--End Intro-->
 <!--Profile Count Badge-->
