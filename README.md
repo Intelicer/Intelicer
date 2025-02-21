@@ -1,30 +1,119 @@
-  <h1 align="center">Hi 👋, I'm Anirudh Rai</h1>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&amp;style=for-the-badge" alt=""></a> </p>
-<p>🌱 I’m currently learning <strong>WEB Development Full-Stack</strong>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"></p>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"> </a> </p><br>
-<hr width="36%">
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact" alt="anii693"></p>
-<p><br><br><br><br><br><br><br></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&amp;show_icons=true&amp;theme=dark&amp;locale=en" alt="anii693"></p>
-<br><br><br><br><br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&amp;theme=dark" alt="anii693"></p>
-<br><br><br><br><br><br><br><br><br><br>
-<hr width="60%">
-<h3 align="left">Connect with me:</h3>
+  <!--Banner-->
+<p><img src="https://github.com/Kiran1689/kiran1689/blob/main/banner.png" alt="Kiran1689 Banner Image"></p>
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+<!--Header Name-->
+<h1 id="-ɪᴍ-ᴋɪʀᴀɴ"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"> ɪ’ᴍ ᴋɪʀᴀɴ!</h1>
+<p><em>Digital Craftsman (Developer / Programmer)</em>
+<br></p>
+<!--Start Intro-->               
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<ul>
+<li>✨ Student of life :)</li>
+<li>🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.</li>
+<li>🏙 A lifetime insider and Mentor at <a href="https://exercism.org/profiles/Kiran1689">Exercism</a>.</li>
+<li>💁‍♂️ Volunteer MOD at <strong>Dev Community</strong>.</li>
+<li>✍ I write technical blogs, You can visit my blog site at <a href="https://dev.to/dev_kiran">DEV</a>.</li>
+<li>❤ Contributing to Open Source.</li>
+<li>💻 Visit my <a href="https://kiran1689.github.io">Portfolio</a> for more details about me.</li>
+</ul>
+<!--End Intro-->
+<!--Profile Count Badge-->
 <p align="left">
-<a href="https://linkedin.com/in/anirudh-rai-072732220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40"></a>
-<a href="https://stackoverflow.com/users/21304875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21304875" height="30" width="40"></a>
-<a href="https://kaggle.com/anirudhrai693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anirudhrai693" height="30" width="40"></a>
-<a href="https://instagram.com/anii_akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40"></a>
+  <img src="https://komarev.com/ghpvc/?username=Kiran1689&amp;label=Profile%20views&amp;color=770677&amp;style=for-the-badge&amp;logo=star" alt="Kiran1689" style="padding-right:20px;">
+</p>
+<hr>
+<br>
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px" src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&amp;perline=10">
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="anii693"> </p>
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/Kiran1689/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Kiran1689&amp;row=2&amp;column=6&amp;margin-w=20&amp;margin-h=20" alt="GitHub Trophies">
+  </a>
+</p>
+<br>
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<table width="100%">
+  <tbody><tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&amp;count_private=true&amp;show_icons=true&amp;theme=nightowl" alt="GitHub Stats">
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&amp;theme=nightowl" alt="Streak Stats">
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689/cryptos">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&amp;repo=cryptos&amp;theme=nightowl&amp;show_owner=true" alt="Cryptos Project">
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kiran1689&amp;limit=3&amp;theme=nightowl&amp;show_owner=true&amp;combine_all_yearly_contributions=true" alt="Top Repo">
+        </a>
+      </p>
+    </td>
+  </tr>
+</tbody></table>
+<br>
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiran1689&amp;bg_color=011627&amp;color=79d3c3&amp;line=c792ea&amp;point=ffeb95&amp;area=true&amp;hide_border=false" border-radius="15">
+</div>
 <hr>
-<p><a href="https://github.com/ANii693">ANii693</a></p>
-<p>Last Edited on: 28/02/2023</p> 
+<!--Dynamic Quote card updated everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&amp;quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&amp;theme=dark&amp;bg_color=011627&amp;author_color=ffeb95">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+<!--Contact Section--> 
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+ <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin" style="margin-bottom: 5px;">
+</a>
+<a href="mailto:kirannaragund197@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="kirannaragund197@gmail.com" mail="" style="margin-bottom: 5px;">
+</a>
+<a href="https://www.instagram.com/kiran_a_n" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="kiran_a_n" instagram="" style="margin-bottom: 5px;">
+</a>
+<a href="https://twitter.com/kiran__a__n" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;">
+</a>
+</div>
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=65&amp;section=footer">
+</p>
+<hr>
+<p>Credit: <a href="https://github.com/Kiran1689">Kiran1689</a></p>
+<p>Last Edited on: 29/11/2023</p> 
