@@ -1,11 +1,11 @@
-<!--Profile Image-->
-<div>
-  <img align="right" width="20%" src="https://avatars.githubusercontent.com/u/122024363?s=400&u=b09936b28443aeeb3ab20f1956f61748f14dadb0&v=4">
-</div>
 <!--Header Name-->
 <h1 id="-ɪᴍ-ᴋɪʀᴀɴ"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"> ɪ’ᴍ ᴋɪʀᴀɴ!</h1>
 <p><em>Digital Craftsman (Developer / Programmer)</em>
 <br></p>
+<!--Profile Image-->
+<div>
+  <img align="right" width="20%" src="https://avatars.githubusercontent.com/u/122024363?s=400&u=b09936b28443aeeb3ab20f1956f61748f14dadb0&v=4">
+</div>
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 <ul>
