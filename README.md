@@ -112,6 +112,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=65&amp;section=footer">
 </p>
-<hr>
-<p>Credit: <a href="https://github.com/Mahmoud1689">Mahmoud1689</a></p>
-<p>Last Edited on: 29/11/2023</p> 
+
