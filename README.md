@@ -1,6 +1,6 @@
 <!--Header Name-->
-<h1 id="-IM-MAHMOUD"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"> ɪ’ᴍ ᴋɪʀᴀɴ!</h1>
-<p><em>Digital Craftsman (Developer / Programmer)</em>
+<h1 id="-IM-MAHMOUD"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"> I'M MAHMOUD S.M MADHUN!</h1>
+<p><em>Software Engineer Student</em>
 <br></p>
 <!--Profile Image-->
 <div>
