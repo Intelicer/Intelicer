@@ -1,6 +1,6 @@
 <!--Profile Image-->
 <div>
-  <img align="right" width="40%" src="https://avatars.githubusercontent.com/u/122024363?s=400&u=b09936b28443aeeb3ab20f1956f61748f14dadb0&v=4">
+  <img align="right" width="20%" src="https://avatars.githubusercontent.com/u/122024363?s=400&u=b09936b28443aeeb3ab20f1956f61748f14dadb0&v=4">
 </div>
 <!--Header Name-->
 <h1 id="-ɪᴍ-ᴋɪʀᴀɴ"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"> ɪ’ᴍ ᴋɪʀᴀɴ!</h1>
