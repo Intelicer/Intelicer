@@ -70,10 +70,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ERR-RES0LVED/ERR-RES0LVED/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="center">Tools & Languages & Engines & OS i want to learn</h2>
 
 ###
