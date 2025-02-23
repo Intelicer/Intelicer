@@ -70,7 +70,7 @@
 
 ###
 
-<h2 align="center">Tools & Languages & Engines & OS i want to learn</h2>
+<h2 align="center">Tools, Languages, Engines & OS i want to learn</h2>
 
 ###
 
