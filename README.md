@@ -2,11 +2,7 @@
 
 ###
 
-<h2 align="left">👩‍💻  About Me</h2>
-
-###
-
-<p align="left">I'm a committed student pursuing a career in software engineering<br><br>- 📚 I'm currently learning.<br>- ⚡ In my free time i like to play some video games, and evolve skills</p>
+<p align="left">A committed student pursuing a career in software engineering<br><br>- 📚 I'm currently learning.<br>- ⚡ In my free time i like to play some video games, and evolve skills</p>
 
 ###
 
