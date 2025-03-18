@@ -31,8 +31,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
+  <a href="https://www.figma.com/board/swvlvFNW19dexCS16ZJWXt/SQL-QUERIES?node-id=1-910&t=iEONcUTqild3lw7R-1">
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+    <img width="12" />
+  </a>
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
