@@ -15,8 +15,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo"  />
 </div>
 
