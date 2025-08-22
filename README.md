@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">A committed student pursuing a career in software engineering<br><br>- 📚 I'm currently learning.<br>- ⚡ In my free time i like to play some video games, and evolve skills</p>
+<p align="left">🧑🏻‍🎓Software Engineerig Student🧑🏻‍🎓</p>
 
 ###
 
-<h2 align="center">Social Media</h2>
+<h2 align="center">Social Accounts</h2>
 
 ###
 
