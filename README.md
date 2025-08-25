@@ -70,3 +70,12 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </p>
+
+<h3 align="center">📊 Github Stats 📊</h3>
+
+<p align="center">
+  <a href='https://github.com/intelicer/github-stats-transparent'>
+    
+  ![Stats Overview](https://raw.githubusercontent.com/intelicer/github-stats-transparent/output/generated/overview.svg)
+  ![Most Used Languages](https://raw.githubusercontent.com/intelicer/github-stats-transparent/output/generated/languages.svg)
+</p>
