@@ -22,7 +22,7 @@
   <img alt="css" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 </p>
 
-<h3 align="center">🛠️Using Following Tools🛠️</h3>
+<h3 align="center">⚙️Using Following Tools⚙️</h3>
 
 <p align="center">
   <img alt="github actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" />
