@@ -16,6 +16,8 @@
 <p>
   <img alt="github actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img alt="vs" src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" />
+  <img alt="vscode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
 </p>
 <h3>Open source projects</h3>
 <table>
