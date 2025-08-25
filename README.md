@@ -57,7 +57,7 @@
 
 <h3>Where to find me</h3>
 <p>
-	<a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" /></a> 
-	<a href="https://twitter.com/Intelicer" target="_blank"><img alt="X" src="https://img.shields.io/badge/-000000?logo=x&logoColor=white&style=flat-square" /></a> 
-	<a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-0A66C2?logo=linkedin&logoColor=white&style=flat-square" /></a> 
+	<a href="https://www.instagram.com" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a> 
+	<a href="https://twitter.com/Intelicer" target="_blank"><img alt="X" src="https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=for-the-badge" /></a> 
+	<a href="https://www.linkedin.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a> 
 </p>
