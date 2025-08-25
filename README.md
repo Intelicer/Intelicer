@@ -8,7 +8,7 @@
   <img alt="c" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="csharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
   <img alt="javaFX" src="https://img.shields.io/badge/JavaFX-00599C?logo=javafx&logoColor=white&style=flat-square" />
-  <img alt="java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" />
+  <img alt="java" src="https://img.shields.io/badge/-Java-007396?logo=coffeescript&logoColor=white&logoWidth=30&style=for-the-badge" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
 </p>
