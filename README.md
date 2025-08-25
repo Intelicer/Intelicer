@@ -75,6 +75,5 @@
 
 <p align="center">
   <a href='https://github.com/intelicer/github-stats-transparent'>
-  ![Top Langs (Dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=intelicer&layout=donut&theme=dark)
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 </p>
