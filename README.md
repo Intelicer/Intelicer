@@ -9,7 +9,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/168/168091.png" width="13"/> <b>Norway</b>.
 </p>
 
-<h3 align="center">👨🏻‍💻Languages I code with👨🏻‍💻</h3>
+<h3 align="center">👨🏻‍💻Languages That I Can Code In👨🏻‍💻</h3>
 
 <p align="center">
   <img alt="cpp" src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
