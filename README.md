@@ -10,7 +10,7 @@
   <img alt="javaFX" src="https://img.shields.io/badge/-%F0%9F%8E%A8%20JavaFX%20-E34F26?style=for-the-badge" />
   <img alt="java" src="https://img.shields.io/badge/-Java-E34F26?logo=coffeescript&logoColor=white&logoWidth=30&style=for-the-badge" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
+  <img alt="css" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 </p>
 <h3>Tools i use:</h3>
 <p>
