@@ -12,22 +12,22 @@
 <h3 align="center">👨🏻‍💻Languages That I Can Code In👨🏻‍💻</h3>
 
 <p align="center">
-  <img alt="cpp" src="assets/c-.png" />
-  <img alt="c" src="assets/c.png" />
-  <img alt="csharp" src="assets/c-sharp.png" />
-  <img alt="java" src="assets/java.png" />
-  <img alt="mysql" src="assets/mysql.png" />
-  <img alt="html5" src="assets/html-5.png" />
-  <img alt="css" src="assets/css-3.png" />
+  <img alt="cpp" src="assets/c-.png" width=26px/>
+  <img alt="c" src="assets/c.png" width=26px/>
+  <img alt="csharp" src="assets/c-sharp.png" width=26px/>
+  <img alt="java" src="assets/java.png" width=26px/>
+  <img alt="mysql" src="assets/mysql.png" width=26px/>
+  <img alt="html5" src="assets/html-5.png" width=26px/>
+  <img alt="css" src="assets/css-3.png" width=26px/>
 </p>
 
 <h3 align="center">⚙️Using Following Tools⚙️</h3>
 
 <p align="center">
-  <img alt="github actions" src="assets/code-branch.png" />
-  <img alt="git" src="assets/git.png" />
-  <img alt="vs" src="assets/vs.png" />
-  <img alt="vscode" src="assets/code.png" />
+  <img alt="github actions" src="assets/code-branch.png" width=26px/>
+  <img alt="git" src="assets/git.png" width=26px/>
+  <img alt="vs" src="assets/vs.png" width=26px/>
+  <img alt="vscode" src="assets/code.png" width=26px/>
 </p>
 
 <h3 align="center">🗂️Open Source Projects🗂️</h3>
@@ -60,13 +60,13 @@
 
 <p align="center">
   <a href="https://www.instagram.com" target="_blank">
-    <img alt="Instagram" src="assets/insta.png" />
+    <img alt="Instagram" src="assets/insta.png" width=26px/>
   </a>
   <a href="https://twitter.com/Intelicer" target="_blank">
-    <img alt="X" src="assets/x.png" />
+    <img alt="X" src="assets/x.png" width=26px/>
   </a>
   <a href="https://www.linkedin.com/" target="_blank">
-    <img alt="LinkedIn" src="assets/in.png" />
+    <img alt="LinkedIn" src="assets/in.png" width=26px />
   </a>
 </p>
 
