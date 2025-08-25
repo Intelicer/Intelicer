@@ -36,13 +36,13 @@
 <h3 align="center">Open source projects</h3>
 
 <!-- Centered markdown table: the :---: makes each column centered -->
-<p align="center">
+<h3 align="center">
 
 | 🗂️ Projects | 📚 Forks | ⚠️ Issues | 🧲 Pull requests |
 |:-----------:|:--------:|:---------:|:----------------:|
 | **[Test](https://github.com/intelicer)** | ![Forks](https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41) | ![PRs](https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41) |
 
-</p>
+</h3>
 
 <h3 align="center">Where to find me</h3>
 
