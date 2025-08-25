@@ -75,5 +75,5 @@
 
 <p align="center">
   <a href='https://github.com/intelicer/github-stats-transparent'>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intelicer&layout=pie)](https://github.com/intelicer/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intelicer&layout=pie)
 </p>
