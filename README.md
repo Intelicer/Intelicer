@@ -1,16 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahmoud S.M Madhun</h1>
-
-###
-
-<p align="left">🧑🏻‍🎓Software Engineerig Student🧑🏻‍🎓</p>
-
-###
-
-<h2 align="center">Social Accounts</h2>
-
-###
-
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! 👋, Nice to see you.</h1>
 
 
 <p>Welcome to my page! </br> I'm Mahmoud, Software Engineerig Student from <img src="https://cdn-icons-png.flaticon.com/512/168/168097.png" width="13"/> <b>Palestine</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/168/168091.png" width="13"/> <b>Norway</b>. </p>
