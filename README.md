@@ -31,7 +31,7 @@
   <img alt="vscode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
 </p>
 
-<h3 align="center">🗂️Open source projects🗂️</h3>
+<h3 align="center">🗂️Open Source Projects🗂️</h3>
 
 <!-- Centered markdown table: the :---: makes each column centered -->
 <h3 align="center">
@@ -57,7 +57,7 @@
 
 </h3>
 
-<h3 align="center">Where to find me</h3>
+<h3 align="center">🌐 Where To Find Me 🌐</h3>
 
 <p align="center">
   <a href="https://www.instagram.com" target="_blank">
