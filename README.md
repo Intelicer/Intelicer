@@ -6,8 +6,7 @@
 <p>
   <img alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
   <img alt="c" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="csharp" src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij4KICA8ZyBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjE0IiBzdHJva2UtbGluZWNhcD0icm91bmQiPgogICAgPGxpbmUgeDE9IjQ0IiB5MT0iMjAiIHgyPSIzMiIgeTI9IjEwOCIvPgogICAgPGxpbmUgeDE9Ijg0IiB5MT0iMjAiIHgyPSI3MiIgeTI9IjEwOCIvPgogICAgPGxpbmUgeDE9IjE2IiB5MT0iNTIiIHgyPSIxMTIiIHkyPSI1MiIvPgogICAgPGxpbmUgeDE9IjgiIHkxPSI4NCIgeDI9IjEwNCIgeTI9Ijg0Ii8+CiAgPC9nPgo8L3N2Zz4=&logoWidth=30
-" />
+  <img alt="csharp" src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij4KICA8ZyBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjE0IiBzdHJva2UtbGluZWNhcD0icm91bmQiPgogICAgPGxpbmUgeDE9IjQ0IiB5MT0iMjAiIHgyPSIzMiIgeTI9IjEwOCIvPgogICAgPGxpbmUgeDE9Ijg0IiB5MT0iMjAiIHgyPSI3MiIgeTI9IjEwOCIvPgogICAgPGxpbmUgeDE9IjE2IiB5MT0iNTIiIHgyPSIxMTIiIHkyPSI1MiIvPgogICAgPGxpbmUgeDE9IjgiIHkxPSI4NCIgeDI9IjEwNCIgeTI9Ijg0Ii8+CiAgPC9nPgo8L3N2Zz4=&logoWidth=30" />
   <img alt="javaFX" src="https://img.shields.io/badge/JavaFX-00599C?logo=javafx&logoColor=white&style=flat-square" />
   <img alt="java" src="https://img.shields.io/badge/-Java-E34F26?logo=coffeescript&logoColor=white&logoWidth=30&style=for-the-badge" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
