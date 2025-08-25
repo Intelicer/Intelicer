@@ -57,6 +57,5 @@
 <p>
 	<a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" /></a> 
 	<a href="https://twitter.com/Intelicer" target="_blank"><img alt="X" src="https://img.shields.io/badge/-000000?logo=x&logoColor=white&style=flat-square" /></a> 
-	<a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" /></a> 
-	<a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+	<a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-0A66C2?logo=linkedin&logoColor=white&style=flat-square" /></a> 
 </p>
