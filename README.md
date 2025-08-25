@@ -11,7 +11,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/168/168091.png" width="13"/> <b>Norway</b>.
 </p>
 
-<h3 align="center">Languages I code with:</h3>
+<h3 align="center">👨🏻‍💻Languages I code with👨🏻‍💻</h3>
 
 <p align="center">
   <img alt="cpp" src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
@@ -24,7 +24,7 @@
   <img alt="css" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 </p>
 
-<h3 align="center">Tools I use:</h3>
+<h3 align="center">🛠️Tools I use🛠️</h3>
 
 <p align="center">
   <img alt="github actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" />
