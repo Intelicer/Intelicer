@@ -3,7 +3,6 @@
 </h1>
 
 <p align="center">
-  Welcome to my page! <br/>
   I'm Mahmoud, Software Engineering Student from
   <img src="https://cdn-icons-png.flaticon.com/512/168/168097.png" width="13"/> <b>Palestine</b>,
   currently living in
