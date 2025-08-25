@@ -76,6 +76,6 @@
 <p align="center">
   <a href='https://github.com/intelicer/github-stats-transparent'>
     
-  ![Stats Overview](https://raw.githubusercontent.com/intelicer/github-stats-transparent/output/generated/overview.svg)
+  ![Stats Overview](https://github-readme-stats.vercel.app/api?username=intelicer&show_icons=true&theme=dark)
   ![Most Used Languages](https://raw.githubusercontent.com/intelicer/github-stats-transparent/output/generated/languages.svg)
 </p>
