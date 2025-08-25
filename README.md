@@ -59,15 +59,9 @@
 <h3 align="center">🌐 Where To Find Me 🌐</h3>
 
 <p align="center">
-  <a>
     <img alt="Instagram" src="assets/insta.png" width=32px/>
-  </a>
-  <a href="https://twitter.com/Intelicer" target="_blank">
     <img alt="X" src="assets/x.png" width=32px/>
-  </a>
-  <a href="https://www.linkedin.com/" target="_blank">
     <img alt="LinkedIn" src="assets/in.png" width=32px />
-  </a>
 </p>
 
 <h3 align="center">📊 Github Stats 📊</h3>
