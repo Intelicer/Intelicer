@@ -6,9 +6,14 @@
 <p>
 
   <img alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
+  <img alt="c" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat-square" />
+  <img alt="csharp" src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat-square" />
+  <img alt="javaFX" src="https://img.shields.io/badge/JavaFX-00599C?logo=javafx&logoColor=white&style=flat-square" />
+  <img alt="java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 <h3>Open source projects</h3>
 <table>
