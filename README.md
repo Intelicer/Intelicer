@@ -59,7 +59,7 @@
 <h3 align="center">🌐 Where To Find Me 🌐</h3>
 
 <p align="center">
-  <a href="https://www.instagram.com" target="_blank">
+  <a>
     <img alt="Instagram" src="assets/insta.png" width=32px/>
   </a>
   <a href="https://twitter.com/Intelicer" target="_blank">
