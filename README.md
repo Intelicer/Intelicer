@@ -70,3 +70,11 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </p>
+<p align="center">
+  Current time: <span id="clock"></span>
+  <script>
+    setInterval(() => {
+      document.getElementById("clock").innerText = new Date().toLocaleTimeString();
+    }, 1000);
+  </script>
+</p>
