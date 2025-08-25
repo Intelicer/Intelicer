@@ -2,9 +2,8 @@
 
 
 <p>Welcome to my page! </br> I'm Mahmoud, Software Engineerig Student from <img src="https://cdn-icons-png.flaticon.com/512/168/168097.png" width="13"/> <b>Palestine</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/168/168091.png" width="13"/> <b>Norway</b>. </p>
-<h3>Things I code with</h3>
+<h3>Languages i code with:</h3>
 <p>
-
   <img alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
   <img alt="c" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat-square" />
   <img alt="csharp" src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat-square" />
@@ -12,6 +11,9 @@
   <img alt="java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
+</p>
+<h3>Tools i use:</h3>
+<p>
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
