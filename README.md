@@ -31,14 +31,29 @@
   <img alt="vscode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
 </p>
 
-<h3 align="center">Open source projects</h3>
+<h3 align="center">🗂️Open source projects🗂️</h3>
 
 <!-- Centered markdown table: the :---: makes each column centered -->
 <h3 align="center">
 
-| 🗂️ Projects | 📚 Forks | ⚠️ Issues | 🧲 Pull requests |
-|:-----------:|:--------:|:---------:|:----------------:|
-| **[Test](https://github.com/intelicer)** | ![Forks](https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41) | ![PRs](https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41) |
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">🗂️ Projects</th>
+      <th align="center">📚 Forks</th>
+      <th align="center">⚠️ Issues</th>
+      <th align="center">🧲 Pull requests</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/intelicer"><b>Test</b></a></td>
+      <td align="center"><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41" /></td>
+      <td align="center"><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41" /></td>
+      <td align="center"><img alt="PRs" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41" /></td>
+    </tr>
+  </tbody>
+</table>
 
 </h3>
 
