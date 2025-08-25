@@ -9,7 +9,7 @@
   <img alt="csharp" src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij4KICA8ZyBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjE0IiBzdHJva2UtbGluZWNhcD0icm91bmQiPgogICAgPGxpbmUgeDE9IjQ0IiB5MT0iMjAiIHgyPSIzMiIgeTI9IjEwOCIvPgogICAgPGxpbmUgeDE9Ijg0IiB5MT0iMjAiIHgyPSI3MiIgeTI9IjEwOCIvPgogICAgPGxpbmUgeDE9IjE2IiB5MT0iNTIiIHgyPSIxMTIiIHkyPSI1MiIvPgogICAgPGxpbmUgeDE9IjgiIHkxPSI4NCIgeDI9IjEwNCIgeTI9Ijg0Ii8+CiAgPC9nPgo8L3N2Zz4=&logoWidth=30" />
   <img alt="javaFX" src="https://img.shields.io/badge/-%F0%9F%8E%A8%20JavaFX%20-E34F26?style=for-the-badge" />
   <img alt="java" src="https://img.shields.io/badge/-Java-E34F26?logo=coffeescript&logoColor=white&logoWidth=30&style=for-the-badge" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
 </p>
 <h3>Tools i use:</h3>
