@@ -68,5 +68,5 @@
 
 <p align="center">
   <a href='https://github.com/intelicer/github-stats-transparent'>
-  <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=intelicer&theme=dark&show_icons=true&hide_border=true&layout=compact' />
+  <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=intelicer&theme=dark&show_icons=true&hide_border=true&layout=donut' />
   </p>
