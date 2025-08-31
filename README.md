@@ -47,9 +47,9 @@
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/Intelicer/FoodWaste"><b>FoodWaste<img alt="java" src="assets/java.png" width=16px/></b></a></td>
-      <td align="center"><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41" /></td>
-      <td align="center"><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41" /></td>
-      <td align="center"><img alt="PRs" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41" /></td>
+      <td align="center"><img alt="Forks" src="https://img.shields.io/github/forks/Intelicer/FoodWaste?style=flat-square&labelColor=343b41" /></td>
+      <td align="center"><img alt="Issues" src="https://img.shields.io/github/issues/Intelicer/FoodWaste?style=flat-square&labelColor=343b41" /></td>
+      <td align="center"><img alt="PRs" src="https://img.shields.io/github/issues-pr/Intelicer/FoodWaste?style=flat-square&labelColor=343b41" /></td>
     </tr>
   </tbody>
 </table>
