@@ -46,7 +46,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/intelicer"><b>Test</b></a></td>
+      <td align="center"><a href="https://github.com/intelicer"><b>FpodWaste<img alt="java" src="assets/java.png" width=10px/></b></a></td>
       <td align="center"><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41" /></td>
       <td align="center"><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41" /></td>
       <td align="center"><img alt="PRs" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41" /></td>
