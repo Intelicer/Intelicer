@@ -63,10 +63,3 @@
     <img alt="X" src="assets/x.png" width=32px/>
     <img alt="LinkedIn" src="assets/in.png" width=32px />
 </p>
-
-<h3 align="center">📊 Github Stats 📊</h3>
-
-<p align="center">
-  <a href='https://github.com/intelicer/github-stats-transparent'>
-  <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=intelicer&theme=dark&show_icons=true&hide_border=true&layout=compact' />
-  </p>
