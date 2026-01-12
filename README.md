@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  I'm Mahmoud, Software Engineering Student from
+  I'm Mahmoud, Computer Engineering Student from
   <img src="https://cdn-icons-png.flaticon.com/512/168/168097.png" width="13"/> <b>Palestine</b>,
   currently living in
   <img src="https://cdn-icons-png.flaticon.com/512/168/168091.png" width="13"/> <b>Norway</b>.
