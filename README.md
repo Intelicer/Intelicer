@@ -59,7 +59,5 @@
 <h3 align="center">🌐 Where To Find Me 🌐</h3>
 
 <p align="center">
-    <img alt="Instagram" src="assets/insta.png" width=32px/>
-    <img alt="X" src="assets/x.png" width=32px/>
     <a href="https://www.linkedin.com/in/mahmoud-s-m-madhun/" style="text-decoration:none"><img alt="LinkedIn" src="assets/in.png" width=32px /></a>
 </p>
