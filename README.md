@@ -1,4 +1,4 @@
-<h1 align="center">
+<img width="2723" height="2254" alt="image" src="https://github.com/user-attachments/assets/05ef5c2b-d0c2-47b2-a27d-8ddea2848784" /><h1 align="center">
   Hey! 👋, Nice to see you.
 </h1>
 
@@ -50,6 +50,12 @@
       <td align="center"><img alt="Forks" src="https://img.shields.io/github/forks/Intelicer/FoodWaste?style=flat-square&labelColor=343b41" /></td>
       <td align="center"><img alt="Issues" src="https://img.shields.io/github/issues/Intelicer/FoodWaste?style=flat-square&labelColor=343b41" /></td>
       <td align="center"><img alt="PRs" src="https://img.shields.io/github/issues-pr/Intelicer/FoodWaste?style=flat-square&labelColor=343b41" /></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/NTNU-IE-IIR-BIDATA/mappe-2026-millions-mappe-01"><b>Stock Market Game<img alt="java" src="assets/java.png" width=16px/></b></a></td>
+      <td align="center"><img alt="Forks" src="https://img.shields.io/github/forks/NTNU-IE-IIR-BIDATA/mappe-2026-millions-mappe-01?style=flat-square&labelColor=343b41" /></td>
+      <td align="center"><img alt="Issues" src="https://img.shields.io/github/issues/NTNU-IE-IIR-BIDATA/mappe-2026-millions-mappe-01?style=flat-square&labelColor=343b41" /></td>
+      <td align="center"><img alt="PRs" src="https://img.shields.io/github/issues-pr/NTNU-IE-IIR-BIDATA/mappe-2026-millions-mappe-01?style=flat-square&labelColor=343b41" /></td>
     </tr>
   </tbody>
 </table>
