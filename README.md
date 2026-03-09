@@ -1,5 +1,4 @@
-<img width="2723" height="2254" alt="image" src="https://github.com/user-attachments/assets/05ef5c2b-d0c2-47b2-a27d-8ddea2848784" /><h1 align="center">
-  Hey! 👋, Nice to see you.
+Hey! 👋, Nice to see you.
 </h1>
 
 <p align="center">
