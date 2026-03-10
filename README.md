@@ -35,7 +35,9 @@
 
 <table align="center">
   <thead>
-    <tr>🗂️Open Source Projects🗂️</tr>
+    <tr>
+      <th align="center">🗂️Open Source Projects🗂️</th>
+    </tr>
   </thead>
   <thead>
     <tr>
