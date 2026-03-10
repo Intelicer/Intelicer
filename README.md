@@ -23,7 +23,6 @@
 <h3 align="center">⚙️Using Following Tools⚙️</h3>
 
 <p align="center">
-  <img alt="github actions" src="assets/code-branch.png" width=32px/>
   <img alt="git" src="assets/git.png" width=32px/>
   <img alt="vs" src="assets/vs.png" width=32px/>
   <img alt="vscode" src="assets/code.png" width=32px/>
