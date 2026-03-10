@@ -29,12 +29,12 @@
   <img alt="vscode" src="assets/code.png" width=32px/>
 </p>
 
-<h3 align="center">🗂️Open Source Projects🗂️</h3>
 
 <!-- Centered markdown table: the :---: makes each column centered -->
 <h3 align="center">
 
 <table align="center">
+  <caption>🗂️Open Source Projects🗂️</caption>
   <thead>
     <tr>
       <th align="center">🗂️ Projects</th>
