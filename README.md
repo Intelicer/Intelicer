@@ -38,6 +38,7 @@
   <thead>
     <tr>
       <th align="center">🗂️ Projects</th>
+      <th align="center">📝 Commits</th>
       <th align="center">📚 Forks</th>
       <th align="center">⚠️ Issues</th>
       <th align="center">🧲 Pull requests</th>
@@ -45,21 +46,19 @@
   </thead>
   <tbody>
     <tr>
-      <th align="center">📝 Commits</th>
-    </tr>
-    <tr>
       <td align="center"><a href="https://github.com/Intelicer/FoodWaste"><b>FoodWaste<img alt="java" src="assets/java.png" width=16px/></b></a></td>
+      <td align="center"><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Intelicer/FoodWaste?style=flat-square&labelColor=343b41" /></td>
       <td align="center"><img alt="Forks" src="https://img.shields.io/github/forks/Intelicer/FoodWaste?style=flat-square&labelColor=343b41" /></td>
       <td align="center"><img alt="Issues" src="https://img.shields.io/github/issues/Intelicer/FoodWaste?style=flat-square&labelColor=343b41" /></td>
       <td align="center"><img alt="PRs" src="https://img.shields.io/github/issues-pr/Intelicer/FoodWaste?style=flat-square&labelColor=343b41" /></td>
-      <td align="center"><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Intelicer/FoodWaste?style=flat-square&labelColor=343b41" /></td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/NTNU-IE-IIR-BIDATA/mappe-2026-millions-mappe-01"><b>Stock Market Game<img alt="java" src="assets/java.png" width=16px/></b></a></td>
+      <td align="center"><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/NTNU-IE-IIR-BIDATA/mappe-2026-millions-mappe-01?style=flat-square&labelColor=343b41" /></td>
       <td align="center"><img alt="Forks" src="https://img.shields.io/github/forks/NTNU-IE-IIR-BIDATA/mappe-2026-millions-mappe-01?style=flat-square&labelColor=343b41" /></td>
       <td align="center"><img alt="Issues" src="https://img.shields.io/github/issues/NTNU-IE-IIR-BIDATA/mappe-2026-millions-mappe-01?style=flat-square&labelColor=343b41" /></td>
       <td align="center"><img alt="PRs" src="https://img.shields.io/github/issues-pr/NTNU-IE-IIR-BIDATA/mappe-2026-millions-mappe-01?style=flat-square&labelColor=343b41" /></td>
-      <td align="center"><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/NTNU-IE-IIR-BIDATA/mappe-2026-millions-mappe-01?style=flat-square&labelColor=343b41" /></td>
+
     </tr>
   </tbody>
 </table>
