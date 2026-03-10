@@ -34,19 +34,18 @@
 <h3 align="center">
 
 <table align="center">
-  <thead>
-    <tr>
-      <th align="center">🗂️Open Source Projects🗂️</th>
-    </tr>
-  </thead>
-  <thead>
-    <tr>
-      <th align="center">🗂️ Projects</th>
-      <th align="center">📝 Commits</th>
-      <th align="center">📚 Forks</th>
-      <th align="center">⚠️ Issues</th>
-      <th align="center">🧲 Pull requests</th>
-    </tr>
+<thead>
+  <tr>
+    <th align="center" colspan="5">🗂️ Open Source Projects 🗂️</th>
+  </tr>
+  <tr>
+    <th align="center">🗂️ Projects</th>
+    <th align="center">📝 Commits</th>
+    <th align="center">📚 Forks</th>
+    <th align="center">⚠️ Issues</th>
+    <th align="center">🧲 Pull requests</th>
+  </tr>
+</thead>
   </thead>
   <tbody>
     <tr>
