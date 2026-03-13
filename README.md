@@ -9,10 +9,9 @@
 </p>
 
 <h3 align="center">👨🏻‍💻Languages Learned👨🏻‍💻</h3>
-
 <p align="center">
-  <img alt="cpp" src="assets/c-.png" width=32px/>
   <img alt="c" src="assets/c.png" width=32px/>
+  <img alt="cpp" src="assets/c-.png" width=32px/>
   <img alt="csharp" src="assets/c-sharp.png" width=32px/>
   <img alt="java" src="assets/java.png" width=32px/>
   <img alt="mysql" src="assets/mysql.png" width=32px/>
