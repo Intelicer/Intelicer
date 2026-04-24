@@ -68,11 +68,11 @@
     <td align="center"><img alt="PRs" src="https://img.shields.io/github/issues-pr/Intelicer/CloudTech-Assignment1?style=flat-square&labelColor=343b41" /></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Intelicer/EnviormentDashboard"><b>🍃 Enviorment Dashboard <img alt="go" src="assets/golang.png" width="16px"/></b></a></td>
-    <td align="center"><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Intelicer/EnviormentDashboard?style=flat-square&labelColor=343b41" /></td>
-    <td align="center"><img alt="Contributors" src="https://img.shields.io/github/contributors/Intelicer/EnviormentDashboard?style=flat-square&labelColor=343b41" /></td>
-    <td align="center"><img alt="Issues" src="https://img.shields.io/github/issues/Intelicer/EnviormentDashboard?style=flat-square&labelColor=343b41" /></td>
-    <td align="center"><img alt="PRs" src="https://img.shields.io/github/issues-pr/Intelicer/EnviormentDashboard?style=flat-square&labelColor=343b41" /></td>
+    <td align="center"><a href="https://github.com/Intelicer/EnvironmentDashboard"><b>🍃 Enviorment Dashboard <img alt="go" src="assets/golang.png" width="16px"/></b></a></td>
+    <td align="center"><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Intelicer/EnvironmentDashboard?style=flat-square&labelColor=343b41" /></td>
+    <td align="center"><img alt="Contributors" src="https://img.shields.io/github/contributors/Intelicer/EnvironmentDashboard?style=flat-square&labelColor=343b41" /></td>
+    <td align="center"><img alt="Issues" src="https://img.shields.io/github/issues/Intelicer/EnvironmentDashboard?style=flat-square&labelColor=343b41" /></td>
+    <td align="center"><img alt="PRs" src="https://img.shields.io/github/issues-pr/Intelicer/EnvironmentDashboard?style=flat-square&labelColor=343b41" /></td>
   </tr>
 </tbody>
 </table>
