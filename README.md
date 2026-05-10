@@ -2,10 +2,7 @@
 
 <p align="center">
   Hey! 👋, Nice to see you. <br>
-  I'm Mahmoud, Computer Engineering Student from
-  <img src="https://cdn-icons-png.flaticon.com/512/168/168097.png" width="13"/> <b>Palestine</b>,
-  currently living in
-  <img src="https://cdn-icons-png.flaticon.com/512/168/168091.png" width="13"/> <b>Norway</b>.
+  I'm Mahmoud, Computer Engineering Student
 </p>
 
 <h3 align="center">👨🏻‍💻Languages Learned👨🏻‍💻</h3>
