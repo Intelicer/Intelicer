@@ -58,11 +58,11 @@
     <td align="center"><img alt="PRs" src="https://img.shields.io/github/issues-pr/NTNU-IE-IIR-BIDATA/mappe-2026-millions-mappe-01?--blue?style=flat-square&label=" /></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Intelicer/CloudTech-Assignment1"><b>🗺️ Country Info <img alt="go" src="assets/golang.png" width="16px"/></b></a></td>
-    <td align="center"><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Intelicer/CloudTech-Assignment1?--blue?style=flat-square&label=" /></td>
-    <td align="center"><img alt="Contributors" src="https://img.shields.io/github/contributors/Intelicer/CloudTech-Assignment1?--blue?style=flat-square&label=" /></td>
-    <td align="center"><img alt="Issues" src="https://img.shields.io/github/issues/Intelicer/CloudTech-Assignment1?--blue?style=flat-square&label=" /></td>
-    <td align="center"><img alt="PRs" src="https://img.shields.io/github/issues-pr/Intelicer/CloudTech-Assignment1?--blue?style=flat-square&label=" /></td>
+    <td align="center"><a href="https://github.com/Intelicer/CountryInfoAPI"><b>🗺️ Country Info <img alt="go" src="assets/golang.png" width="16px"/></b></a></td>
+    <td align="center"><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/Intelicer/CountryInfoAPI?--blue?style=flat-square&label=" /></td>
+    <td align="center"><img alt="Contributors" src="https://img.shields.io/github/contributors/Intelicer/CountryInfoAPI?--blue?style=flat-square&label=" /></td>
+    <td align="center"><img alt="Issues" src="https://img.shields.io/github/issues/Intelicer/CountryInfoAPI?--blue?style=flat-square&label=" /></td>
+    <td align="center"><img alt="PRs" src="https://img.shields.io/github/issues-pr/Intelicer/CountryInfoAPI?--blue?style=flat-square&label=" /></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Intelicer/EnvironmentDashboard"><b>🍃 Enviorment Dashboard <img alt="go" src="assets/golang.png" width="16px"/></b></a></td>
