@@ -11,6 +11,7 @@
   <img alt="cpp" src="assets/c-.png" width=32px/>
   <img alt="csharp" src="assets/c-sharp.png" width=32px/>
   <img alt="java" src="assets/java.png" width=32px/>
+  <img alt="go" src="assets/golang.png" width=32px/>
   <img alt="mysql" src="assets/mysql.png" width=32px/>
   <img alt="html5" src="assets/html-5.png" width=32px/>
   <img alt="css" src="assets/css-3.png" width=32px/>
